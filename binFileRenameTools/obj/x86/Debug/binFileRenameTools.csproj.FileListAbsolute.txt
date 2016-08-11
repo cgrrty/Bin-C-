@@ -1,0 +1,7 @@
+D:\项目\Csharp\RenameTools\binFileRenameTools\binFileRenameTools\bin\Debug\binFileRenameTools.exe
+D:\项目\Csharp\RenameTools\binFileRenameTools\binFileRenameTools\bin\Debug\binFileRenameTools.pdb
+D:\项目\Csharp\RenameTools\binFileRenameTools\binFileRenameTools\obj\x86\Debug\binFileRenameTools.Form1.resources
+D:\项目\Csharp\RenameTools\binFileRenameTools\binFileRenameTools\obj\x86\Debug\binFileRenameTools.Properties.Resources.resources
+D:\项目\Csharp\RenameTools\binFileRenameTools\binFileRenameTools\obj\x86\Debug\binFileRenameTools.csproj.GenerateResource.Cache
+D:\项目\Csharp\RenameTools\binFileRenameTools\binFileRenameTools\obj\x86\Debug\binFileRenameTools.exe
+D:\项目\Csharp\RenameTools\binFileRenameTools\binFileRenameTools\obj\x86\Debug\binFileRenameTools.pdb
