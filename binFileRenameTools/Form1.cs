@@ -108,7 +108,15 @@ namespace binFileRenameTools
                     //NameAddr = (UInt32)(TempArray[3] << 24 + TempArray[2] << 16 + TempArray[1] << 8 + TempArray[0]);
                     //C# 方法真简单
                     NameAddr = BitConverter.ToUInt32(TempArray, 0);
-                    NameAddr = NameAddr - 0x0800a000;
+
+                    if (checkBox1.Checked == true)
+                    {
+                        NameAddr = NameAddr - 0x08001000;
+                    }
+                    else
+                    {
+                        NameAddr = NameAddr - 0x0800a000;                       
+                    }
                     Array.Copy(File.ReadAllBytes(OriginalFilePath), NameAddr, NewNameArray, 0, 64);
                     string strTemp = string.Empty;
                     strTemp = string.Copy(OriginalFilePath);
@@ -157,6 +165,21 @@ namespace binFileRenameTools
         }
 
         private void Form1_Load(object sender, System.EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }

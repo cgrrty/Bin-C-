@@ -7,3 +7,12 @@ D:\项目\Csharp\RenameTools\binFileRenameTools\binFileRenameTools\obj\x86\Relea
 D:\项目\Csharp\RenameTools\binFileRenameTools\binFileRenameTools\obj\x86\Release\Bin文件自动重命名工具V1.0.pdb
 D:\项目\Csharp\RenameTools\binFileRenameTools\binFileRenameTools\obj\x86\Release\binFileRenameTools.csprojResolveAssemblyReference.cache
 D:\项目\Csharp\RenameTools\binFileRenameTools\binFileRenameTools\bin\Release\Bin文件自动重命名工具V1.0.exe.config
+D:\项目\Csharp\RenameTools\binFileRenameTools\Bin-C-\binFileRenameTools\bin\Release\Bin文件自动重命名工具V1.0.exe.config
+D:\项目\Csharp\RenameTools\binFileRenameTools\Bin-C-\binFileRenameTools\obj\x86\Release\Bin文件自动重命名工具V1.0.exe
+D:\项目\Csharp\RenameTools\binFileRenameTools\Bin-C-\binFileRenameTools\obj\x86\Release\Bin文件自动重命名工具V1.0.pdb
+D:\项目\Csharp\RenameTools\binFileRenameTools\Bin-C-\binFileRenameTools\bin\Release\Bin文件自动重命名工具V1.0.exe
+D:\项目\Csharp\RenameTools\binFileRenameTools\Bin-C-\binFileRenameTools\bin\Release\Bin文件自动重命名工具V1.0.pdb
+D:\项目\Csharp\RenameTools\binFileRenameTools\Bin-C-\binFileRenameTools\obj\x86\Release\binFileRenameTools.csprojResolveAssemblyReference.cache
+D:\项目\Csharp\RenameTools\binFileRenameTools\Bin-C-\binFileRenameTools\obj\x86\Release\binFileRenameTools.Form1.resources
+D:\项目\Csharp\RenameTools\binFileRenameTools\Bin-C-\binFileRenameTools\obj\x86\Release\binFileRenameTools.Properties.Resources.resources
+D:\项目\Csharp\RenameTools\binFileRenameTools\Bin-C-\binFileRenameTools\obj\x86\Release\binFileRenameTools.csproj.GenerateResource.Cache
